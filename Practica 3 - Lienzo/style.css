@@ -1,0 +1,113 @@
+#canvas {
+    width: 500px;
+    height: 500px;
+    background-color: ivory;
+    margin: 0 auto;
+    box-shadow: 15px 15px 10px gray;
+}
+
+#first-row {
+    height: 75%;
+    width: 100%;    
+}
+
+#big-rectangle {
+    height: 100%;
+    width: 75%;
+}
+.red {
+    background-color: red;
+}
+
+.right {
+    float: right;
+}
+
+.black {
+    background-color: black;
+}
+
+#first-divider {
+    height: 100%;
+    width: 3%;
+}
+
+
+#first-column {
+    height: 100%;
+    width: 22%;
+}
+
+#second-divider {
+    height: 7%;
+    width: 100%;
+}
+
+#first-medium-rectangle {
+    height: 46.5%;
+    width: 100%;
+}
+
+#second-medium-rectangle {
+    height: 46.5%;
+    width: 100%;
+}
+
+#second-row {
+    height: 3%;
+    width: 100%;
+}
+
+#third-row {
+    height: 22%;
+    width: 100%;
+}
+
+#last-column {
+    height: 100%;
+    width: 10%;
+}
+
+#first-rectangle {
+    height: 45%;
+    width: 100%;
+}
+
+#third-rectangle {
+    height: 45%;
+    width: 100%;
+
+}
+.yellow {
+    background-color: yellow;
+}
+
+#rectangle-medium {
+    height: 10%;
+    width: 100%;
+}
+
+#divider {
+    height: 100%;
+    width: 3%;
+}
+
+
+#four-rectangle {
+    height: 100%;
+    width: 62%;
+}
+
+#divider-two{
+    height: 100%;
+    width: 3%;
+}
+
+#five-rectangle {
+    height: 100%;
+    width: 22%;
+}
+
+.blue {
+    background-color: blue;
+}

@@ -1,0 +1,13 @@
+/*Este es un comentario escribir aqui lo que sea*/
+
+a:hover {
+    color: green;
+}
+
+h1, p {
+    color: blue;
+}
+
+[data-furniture="table"] {
+    color: red;
+}
